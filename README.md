@@ -66,7 +66,7 @@ The following SaaS and hosted privacy/VPN platforms are sorted in descending ord
 
 ## 💻 Open-Source GitHub Projects
 
-The following repositories are sorted in descending order by **GitHub Stars_Count**. Every Stars_Badge links directly to the stargazer community of that specific project.
+The following repositories are sorted in descending order by **GitHub_Stars_Count**. Every Stars_Badge links directly to the stargazer community of that specific project.
 
 | Open-Source Project 🛠️ | GitHub_Stars ⭐ | Description 📝 | Primary Protocols & Capabilities 🔒 |
 | :--- | :--- | :--- | :--- |
